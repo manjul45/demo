@@ -1,0 +1,4 @@
+My to do list
+
+class for agile
+class for Generative AI and LLMs
